@@ -185,6 +185,7 @@ a {
 .hero .hero-cta .action:hover {
     background-color: var(--primary-color);
     color: #fff;
+    cursor: pointer;
 }
 
 
